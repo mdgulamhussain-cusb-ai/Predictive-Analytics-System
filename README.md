@@ -109,5 +109,7 @@ sample_input = X_test.iloc[:1]
 prediction = loaded_model.predict(sample_input)
 print("Prediction:", prediction)
 
+Add csv file and go on!!!
+
 
 
