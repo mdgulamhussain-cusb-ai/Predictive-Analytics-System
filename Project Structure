@@ -1,0 +1,29 @@
+predictive-analytics-system/
+│
+├── data/
+│   ├── raw/
+│   │   └── data.csv
+│   └── processed/
+│       └── processed_data.csv
+│
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb
+│
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train_regression.py
+│   ├── train_classification.py
+│   ├── evaluate.py
+│   └── predict.py
+│
+├── models/
+│   └── predictive_model.pkl
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── main.py
