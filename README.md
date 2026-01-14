@@ -1,5 +1,5 @@
 # Predictive-Analytics-System
-Tech Stack: Python, Pandas, NumPy, Scikit-learn  🔹 What this system does - Loads dataset | Handles missing values | Performs feature engineering | Scales numerical features | Trains Regression & Classification models | Evaluates performance | Ready for deployment / production use.
+Tech Stack: Python, Pandas, NumPy, Scikit-learn   What this system does - Loads dataset | Handles missing values | Performs feature engineering | Scales numerical features | Trains Regression & Classification models | Evaluates performance | Ready for deployment / production use.
 
 # Install libraries 
 pip install pandas numpy scikit-learn matplotlib seaborn
